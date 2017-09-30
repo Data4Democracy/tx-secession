@@ -2,7 +2,7 @@
 Exploration of Texas secession conversation on Twitter
 
 ### Getting started
-Here's a quick demo of loading the tweets into a pandas dataframe for exploratory analysis. Pro tip: try this out in our example [jupyter notebook]()
+Here's a quick demo of loading the tweets into a pandas dataframe for exploratory analysis. Pro tip: try this out in our example [jupyter notebook](https://github.com/Data4Democracy/tx-secession/blob/master/example.ipynb)
 
 ### To actually run this code...
 First setup your environment. 
