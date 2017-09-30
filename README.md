@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Get the tweets
-df = pd.read_csv('tweets.csv')
+df = pd.read_csv('data/tweets.csv')
 
 # Check out the column headers
 print(df.columns)
